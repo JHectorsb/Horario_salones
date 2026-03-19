@@ -67,4 +67,13 @@ export const styles = StyleSheet.create({
   emptyCard: {
     flex: 1,
   },
+  input: {
+  flex: 1,
+  backgroundColor: "#E0E0E0", 
+  borderRadius: 4,
+  padding: 4,
+  fontSize: 10,
+  color: "#E0E0E0",
+  textAlign: "center",
+}
 });
